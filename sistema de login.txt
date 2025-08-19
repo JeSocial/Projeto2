@@ -1,2 +1,5 @@
 Qual seu nome:
 Qual seu email:
+Qual sua idade:
+Qual sua filiação:
+Qual sua cidade:
